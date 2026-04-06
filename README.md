@@ -6,7 +6,7 @@ A production-ready Retrieval-Augmented Generation (RAG) application built with *
 
 ## Table of Contents
 
-- [Architecture Overview](#architecture-overview)
+- [Architectural Overview](#architecture-overview)
 - [Agent Pipeline](#agent-pipeline)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
