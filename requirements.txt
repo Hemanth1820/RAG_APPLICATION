@@ -1,4 +1,4 @@
-# LangChain + LangGraph
+# LangChain + LangGraph Usage
 langchain>=0.3.0
 langgraph>=0.2.0
 langgraph-checkpoint>=1.0.0
