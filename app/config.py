@@ -30,7 +30,7 @@ class Settings(BaseSettings):
         alias="CHECKPOINT_DB_PATH",
     )
 
-    # ChromaDataBase
+    # Chroma DataBase
     chroma_persist_dir: str = Field(
         default="./data/chroma",
         alias="CHROMA_PERSIST_DIR",
